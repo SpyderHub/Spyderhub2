@@ -1,2 +1,2 @@
-# Spyderhub2
-LOL
+# Spyderhub
+git config --global user.name "SpyderHub2"
